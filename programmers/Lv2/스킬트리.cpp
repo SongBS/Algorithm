@@ -36,7 +36,6 @@ int solution(string skill, vector<string> skill_trees) {
     return answer;
 }
 
-/*
 int main()
 {
     string skill = "CBD";
@@ -47,5 +46,5 @@ int main()
     cout << "skill count: " << solution(skill, users_trees) << endl;
     return 0;
 }
-*/
+
 

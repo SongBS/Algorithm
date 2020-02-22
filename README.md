@@ -5,7 +5,7 @@
 ## Lv1
 | 문제 | 코드 |
 | ------------- |:-------------:|
-| [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [cpp](Programmers/Lv1/Lv1_N으로표현.cpp), [py](Programmers/Lv3/Lv3_N으로표현.py)| 
+| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42895) | [cpp](Programmers/Lv1/완주하지못한선수.cpp) | 
 
 ## Lv2
 ## Lv3
@@ -16,7 +16,7 @@
 
 # etc
 | 문제 | 코드 |
-| LinkedList |[c](etc/LinkedList.c|
+| LinkedList |[c](etc/LinkedList.c)|
 | ------------- |:-------------:|
 | ------------- | ------------- |
 | ------------- | ------------- |

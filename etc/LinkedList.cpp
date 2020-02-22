@@ -43,7 +43,7 @@ static int addNode(int data)
 	return 0;
 }
 
-static int add_node(int data)
+static int addNode(int data)
 {
 	Node* new_node = new Node;
 	new_node->data = data;
@@ -110,10 +110,10 @@ int main()
 	nodeList->count = 0;
 	nodeList->head = NULL;
 
-	add_node(1);
-	add_node(2);
-	add_node(3);
-	add_node(4);
+	addNode(1);
+	addNode(2);
+	addNode(3);
+	addNode(4);
 
 	printNode();
 
